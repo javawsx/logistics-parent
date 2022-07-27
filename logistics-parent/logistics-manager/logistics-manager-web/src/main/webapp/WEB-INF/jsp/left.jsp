@@ -44,8 +44,8 @@
         </div>
         <ul class="menuson">
             <li><cite></cite><a href="index.html" target="rightFrame">首页模版</a><i></i></li>
-            <li class="active"><cite></cite><a href="/user/query" target="rightFrame">用户管理</a><i></i></li>
-            <li><cite></cite><a href="/role/query" target="rightFrame">角色管理</a><i></i></li>
+            <li class="active"><cite></cite><a href="user/query" target="rightFrame">用户管理</a><i></i></li>
+            <li><cite></cite><a href="role/query" target="rightFrame">角色管理</a><i></i></li>
             <li><cite></cite><a href="/basic/query" target="rightFrame">基础数据</a><i></i></li>
 <%--            <shiro:hasAnyRoles name="业务员,操作员">--%>
 <%--                <li><cite></cite><a href="/customer/customerDispatch" target="rightFrame">新增客户</a><i></i></li>--%>
